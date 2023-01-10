@@ -41,6 +41,11 @@ h1 {
 .container {
     display: flex;
     justify-content: space-around;
+    margin: auto;
+    column-gap: 50px;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 .inner-container {
